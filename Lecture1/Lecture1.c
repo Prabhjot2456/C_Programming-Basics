@@ -21,14 +21,17 @@ void mrg()  // function definition
  ...
 }
 
+
 void mrg2(int a)
 { 
 }
+
 
 int mrg3(int a);
 {
  return 501;
 }
+
 
 int mrg4()
 {
@@ -38,6 +41,7 @@ return 501;
 
 int main()
 {
-    printf("Hello World!\n"); // It is function calling because it is an inbuilt function
+    printf("Hello World!\n"); // It is known as function calling because it is an inbuilt function
     return 0;
+
 }
